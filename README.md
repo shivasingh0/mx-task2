@@ -1,70 +1,63 @@
-# Getting Started with Create React App
+# Restaurant Landing Page - React.js Implementation
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project is a **React.js** implementation of a restaurant landing page based on the provided Figma design reference.
 
-## Available Scripts
+---
 
-In the project directory, you can run:
+![Design Video](./assets/view/task2.mp4)
+![Design Screenshot](./assets/view/ss.png)
 
-### `npm start`
+## Reference Design
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+The landing page is developed to replicate the Figma design with high fidelity, ensuring consistency with the provided layout, color scheme, and typography.
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+### Features
+- **Fully Responsive:** The design adapts seamlessly to various screen sizes.
+- **Pixel-Perfect Layout:** Matches the Figma design specifications.
+- **Interactive UI:** Focus on user engagement and a smooth browsing experience.
+- **Modern Styling:** Leveraging **Tailwind CSS** for clean and efficient styling.
 
-### `npm test`
+---
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+## Technologies Used
+- **React.js** for building the user interface.
+- **Tailwind CSS** for responsive and modern design styling.
+- **React Icons** for consistent iconography.
 
-### `npm run build`
+---
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+## Setup Instructions
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+### Prerequisites
+- **Node.js** installed on your system.
+- A package manager like **npm** or **yarn**.
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+### Steps to Run the Project
 
-### `npm run eject`
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/shivasingh0/mx-task2.git
+   ```
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+2. Navigate into the project directory:
+   ```bash
+   cd mx-task2
+   ```
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+3. Install the dependencies:
+   ```bash
+   npm install
+   # or
+   yarn install
+   ```
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+4. Start the development server:
+   ```bash
+   npm start
+   # or
+   yarn start
+   ```
 
-## Learn More
+5. Open your browser and visit `http://localhost:3000` to view the landing page.
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
