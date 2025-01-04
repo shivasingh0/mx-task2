@@ -4,8 +4,8 @@ This project is a **React.js** implementation of a restaurant landing page based
 
 ---
 
-![Design Video](./assets/view/task2.mp4)
-![Design Screenshot](./assets/view/ss.png)
+![Design Video](./public/assets/view/task2.mp4)
+![Design Screenshot](./public/assets/view/ss.png)
 
 ## Reference Design
 
